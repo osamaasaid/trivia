@@ -1,0 +1,76 @@
+body{
+	background-image: url("http://cdn.desktopwallpapers4.me/wallpapers/digital-art/1280x800/4/30670-brain-with-headphones-1280x800-digital-art-wallpaper.jpg");
+	background-repeat: no-repeat; 
+	background-position: center;
+	background-color: #5599D1; 	
+	background-attachment: fixed;
+
+}
+
+.questions{
+	margin: 5px;
+	width: 200px;
+	height: 200px;
+	background-color:transparent;
+	border-radius: 25px;
+	padding: 20px;
+	mar
+}
+
+.container{
+	margin: 20px;
+	margin-right: 30px ;
+}
+
+.row{
+	margin-left: 50px
+	padding:50px;
+}
+
+.result{
+	height: 140px;
+	width: 300px;
+	background-color:white;
+	margin-right: 50px;
+	border-radius: 20px;
+	padding-left: 300px;
+
+}
+
+#button{
+	padding: 5px;
+	background-color:;
+}
+
+#q{
+	font-family: 'Marvel', sans-serif;
+	color: black;
+	font-size: 20px;
+
+}
+
+#header{
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 50px;
+	text-align: center;
+
+}
+
+.col-md-6{
+	display: inline-block;
+}
+.center{
+	width: 600px;
+}
+
+.correct{
+ font-family: 'Gloria Hallelujah', cursive;
+ color: black;
+}
+
+.wrong{
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+.refresh{
+font-family: 'Shadows Into Light', cursive;}
